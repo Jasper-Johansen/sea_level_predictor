@@ -33,6 +33,7 @@ You can install these libraries using pip if you don't have them already:
 
 ```bash
 pip install pandas matplotlib scipy
+```
 
 ## Results
 - The first line of best fit (orange) represents the sea level trend from 1880 to 2050.
